@@ -1,0 +1,12 @@
+# Executáveis compilados do C
+*.o
+*.out
+a.out
+*.exe
+
+# Configurações de editor
+.vscode/
+.idea/
+
+# Arquivos do sistema
+.DS_Store
